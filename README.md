@@ -10,7 +10,7 @@
 - 💬 Ask me about anything at [here](https://github.com/ChunYu-Chen159/ChunYu-Chen159/issues) or [chunyu.chen159@gmail.com](chunyu.chen159@gmail.com)
 
 
-
+<br>
 
 
 **Languages and Tools:**  
@@ -23,6 +23,9 @@
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></code>
 <code><img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></code>
+
+
+<br>
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chunyu-chen159&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chunyu-chen159&show_icons=true&include_all_commits=true&hide_border=true&hide=prs,issues,contribs" alt="ChunYu's github stats" /></a> |
