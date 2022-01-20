@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Chun-Yu.</h1>
+<h1 align="left">Hi 👋, I'm Chun-Yu.</h1>
 
 **About me**
 - 💼 Backend Engineer at [HDRE](https://www.hdrenewables.com/)
