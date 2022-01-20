@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ChunYu-Chen159/ChunYu-Chen159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Chun-Yu Chen</h1>
+<h1 align="center">Hi 👋, I'm Chun-Yu.</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
 <h3 align="left">Connect with me:</h3>
