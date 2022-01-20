@@ -3,14 +3,18 @@
 <h1 align="left">Hi 👋, I'm Chun-Yu.</h1>
 
 **About me**
-- 💼 Backend Engineer at [HDRE](https://www.hdrenewables.com/)
+- 💼 Backend Engineer at [HDRE](https://www.hdrenewables.com/).
 
 - ❤️ The most familiar programming language is **JAVA**, especially for web applications.
+
+- 💬 Ask me about anything at [here](https://github.com/ChunYu-Chen159/ChunYu-Chen159/issues) or [chunyu.chen159@gmail.com](chunyu.chen159@gmail.com)
+
 
 
 
 
 **Languages and Tools:**  
+
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript"></code>
