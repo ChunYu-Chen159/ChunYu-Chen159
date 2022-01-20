@@ -25,11 +25,12 @@
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></code>
 
 
-<!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChunYu-Chen159&theme=default"></a>
-| ------------- | -->
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chunyu-chen159&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChunYu-Chen159&theme=default" style="border:none;" alt="ChunYu's github stats" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chunyu-chen159&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chunyu-chen159&show_icons=true&include_all_commits=true&hide_border=true&hide=prs,issues,contribs" alt="ChunYu's github stats" /></a> |
 | ------------- | ------------- |
+
+
+
+
 
 
 
