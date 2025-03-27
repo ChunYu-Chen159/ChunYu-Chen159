@@ -3,7 +3,7 @@
 **About me**
 - 💼 Backend Engineer at [HDRE](https://www.hdrenewables.com/).
 
-- ❤️ The most familiar programming language is **JAVA**, especially for web applications.
+- ❤️ The familiar programming languages: **Java**, **Python**.
 
 - 💬 Ask me about anything at [here](https://github.com/ChunYu-Chen159/ChunYu-Chen159/issues) or [chunyu.chen159@gmail.com](chunyu.chen159@gmail.com)
 
